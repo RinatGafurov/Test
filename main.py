@@ -1,6 +1,8 @@
 print('Hello, world')
 
-print("Добавление изменений")
+
+for i in range(10):
+    print(i)
 
 
 print("Новые изменения")
