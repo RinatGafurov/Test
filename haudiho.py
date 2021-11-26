@@ -7,4 +7,7 @@ test.insert(0, 'Пока')
 
 test.insert(0, "Еще раз")
 
+
+test.insert(0, "Добавили еще один момент")
+
 print(test)
